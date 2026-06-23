@@ -8,6 +8,7 @@ Mi intención no es resumir estos libros ni reemplazar su contenido. Simplemente
 Esta biblioteca existe para compartir material que me ha resultado útil y que puede servir de punto de partida para otras personas en su propio camino de aprendizaje.
 
 ## Sitio
-<a href="https://code-resources-portal.onrender.com" >code-resources-portal</a>
-
+<a href="https://code-resources-portal.onrender.com" target="_blank">
+    Code Resources Portal
+</a>
 
