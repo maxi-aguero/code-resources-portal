@@ -1,0 +1,93 @@
+section {
+    border: 3px solid orange;
+    padding: 6px;
+}
+
+header, footer {
+    border: 3px solid purple;
+    padding: 6px;
+}
+
+section {
+        margin-top: 20px;
+}
+
+
+
+
+
+
+footer {
+
+    margin-top: 20px;
+      background: maroon;
+
+}
+
+footer p{
+            color: white;
+            font-size: 28px;
+
+}
+
+
+
+nav ul {
+background-color: PaleVioletRed;
+list-style: none;
+padding: 0;
+width: 200px;
+border: 3px solid MediumVioletRed;
+
+}
+nav ul li {
+border-bottom: 1px solid red;
+padding: 5px;
+}
+
+nav ul li:last-child {
+border-bottom: none;
+}
+
+nav ul li a {
+color: white;
+text-decoration: none;
+}
+nav ul li a:hover {
+text-decoration: underline;
+}
+
+
+
+.libros {
+background-color: rgb(112, 169, 216);
+list-style: none;
+padding: 0;
+border: 3px solid gold;
+
+}
+
+.libros a{
+    color: blue;
+    display:block;
+    text-decoration: none;
+    border-bottom: 1px solid red;
+    padding: 5px;
+}
+
+.libros a:last-child {
+border-bottom: none;
+}
+
+.libros :nth-child(2) {
+    border-top: 1px solid red;
+}
+.libros a:hover {
+    color: white;
+    text-decoration: none;
+
+
+}
+.libros a:hover {
+    text-decoration: underline;
+}
